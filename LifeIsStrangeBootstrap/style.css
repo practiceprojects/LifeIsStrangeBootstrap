@@ -1,0 +1,39 @@
+﻿.container{
+
+}
+
+#logo{
+    background-color:pink;
+    padding:20px;
+}
+
+.bg-dark{
+    background-color:darkred!important;
+}
+
+#nav{
+    padding-left:0px;
+    padding-right:0px;
+}
+
+.navbar-dark .navbar-nav
+.nav-link{
+    color:white;
+    font-size:25px;
+    margin:10px;
+}
+
+#jumboRow {
+    background-image: url('photos/lifeisstrangejunkyard.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 663px;
+}
+
+#jumbotron {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    justify-content:center;
+    background-color: transparent;
+}

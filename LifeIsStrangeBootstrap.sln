@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LifeIsStrangeBootstrap", "LifeIsStrangeBootstrap\", "{202A15D0-1416-46AB-A8CC-9D19E877426F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60535"
+		Debug.AspNetCompiler.PhysicalPath = "LifeIsStrangeBootstrap\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60535\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60535"
+		Release.AspNetCompiler.PhysicalPath = "LifeIsStrangeBootstrap\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60535\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60535"
+		SlnRelativePath = "LifeIsStrangeBootstrap\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202A15D0-1416-46AB-A8CC-9D19E877426F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202A15D0-1416-46AB-A8CC-9D19E877426F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDF8FC5-62BB-4E13-A20B-771578765669}
+	EndGlobalSection
+EndGlobal
